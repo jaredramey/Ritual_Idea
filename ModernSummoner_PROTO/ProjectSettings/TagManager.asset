@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - BackGround
+  - Enviornment
+  - HouseBackground
+  - Player
   - 
   - 
   - 
@@ -40,4 +40,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1423221047
+    locked: 1
+  - name: Enviornment
+    uniqueID: 4289472379
+    locked: 0
+  - name: HouseBackground
+    uniqueID: 330755311
+    locked: 0
+  - name: House_Furniture
+    uniqueID: 4012216795
+    locked: 0
+  - name: Player
+    uniqueID: 682604397
+    locked: 0
+  - name: House_Close
+    uniqueID: 3202732393
+    locked: 0
+  - name: House_Walls
+    uniqueID: 2954212573
     locked: 0
